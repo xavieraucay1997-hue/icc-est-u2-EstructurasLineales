@@ -1,6 +1,7 @@
 # Práctica 3: Ejercicios de lógica con estructuras lineales: pilas y colas
 
 **Nombre:** Xavier Aucay
+**Fecha de entrega** 10/6/2026
 
 ## Descripción general del proyecto
 Este proyecto resuelve tres problemas de algoritmos usando estructuras lineales dinamicas. Se implemento una validación de parentesis balanceados, y un ordenamiento interno de pilas y una verificación de palíndromos.
